@@ -1,0 +1,2901 @@
+fileFormatVersion: 2
+guid: 12d878159cd1a3e43a1401d93cf78c4b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 137631
+  packageName: Stylized Low Poly Animated Horse Pack
+  packageVersion: 2.92
+  assetPath: Assets/LPHorse_Version_2_9/Version_2_9/Mesh/LP_Horse_Mesh_2_9.fbx
+  uploadId: 334956
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Back_Back
+  - first:
+      1: 100002
+    second: Back_Back_FK
+  - first:
+      1: 100004
+    second: Back_Back_FK_end
+  - first:
+      1: 100006
+    second: Back_Back_IK
+  - first:
+      1: 100008
+    second: Back_Forward
+  - first:
+      1: 100010
+    second: Back_Forward.003
+  - first:
+      1: 100012
+    second: Back_Forward.003_end
+  - first:
+      1: 100014
+    second: Back_Forward_FK
+  - first:
+      1: 100016
+    second: Back_Forward_IK
+  - first:
+      1: 100018
+    second: Back_Forward_IK_end
+  - first:
+      1: 100020
+    second: Back_Forward_Pull
+  - first:
+      1: 100022
+    second: Back_Forward_Pull_end
+  - first:
+      1: 100024
+    second: Back_Hind_Pull
+  - first:
+      1: 100026
+    second: Back_Hind_Pull_end
+  - first:
+      1: 100028
+    second: BackMiddle
+  - first:
+      1: 100030
+    second: BackMiddle_end
+  - first:
+      1: 100032
+    second: BackMiddle_FK
+  - first:
+      1: 100034
+    second: BackMiddle_FK_end
+  - first:
+      1: 100036
+    second: BackMiddle_IK
+  - first:
+      1: 100038
+    second: Butt.L
+  - first:
+      1: 100040
+    second: Butt.L.001
+  - first:
+      1: 100042
+    second: Butt.R
+  - first:
+      1: 100044
+    second: Butt.R.001
+  - first:
+      1: 100046
+    second: Butt_IK.L
+  - first:
+      1: 100048
+    second: Butt_IK.R
+  - first:
+      1: 100050
+    second: Butt_Soft_IK.L
+  - first:
+      1: 100052
+    second: Butt_Soft_IK.R
+  - first:
+      1: 100054
+    second: Butt_Target.L
+  - first:
+      1: 100056
+    second: Butt_Target.L_end
+  - first:
+      1: 100058
+    second: Butt_Target.R
+  - first:
+      1: 100060
+    second: Butt_Target.R_end
+  - first:
+      1: 100062
+    second: Chest_Pull
+  - first:
+      1: 100064
+    second: Chest_Pull_Mesh
+  - first:
+      1: 100066
+    second: Ear Focus Mesh
+  - first:
+      1: 100068
+    second: Ear_Mesh
+  - first:
+      1: 100070
+    second: EarBase.L
+  - first:
+      1: 100072
+    second: EarBase.R
+  - first:
+      1: 100074
+    second: EarFocus
+  - first:
+      1: 100076
+    second: EarFocus_end
+  - first:
+      1: 100078
+    second: EarFocus_Left
+  - first:
+      1: 100080
+    second: EarFocus_Left_end
+  - first:
+      1: 100082
+    second: EarFocus_Right
+  - first:
+      1: 100084
+    second: EarFocus_Right_end
+  - first:
+      1: 100086
+    second: EarLower.L
+  - first:
+      1: 100088
+    second: EarLower.L_end
+  - first:
+      1: 100090
+    second: EarLower.R
+  - first:
+      1: 100092
+    second: EarLower.R_end
+  - first:
+      1: 100094
+    second: EarUpper.L
+  - first:
+      1: 100096
+    second: EarUpper.L_end
+  - first:
+      1: 100098
+    second: EarUpper.R
+  - first:
+      1: 100100
+    second: EarUpper.R_end
+  - first:
+      1: 100102
+    second: Eye.L
+  - first:
+      1: 100104
+    second: Eye.L_end
+  - first:
+      1: 100106
+    second: Eye.R
+  - first:
+      1: 100108
+    second: Eye.R_end
+  - first:
+      1: 100110
+    second: Eye_Focus_Mesh
+  - first:
+      1: 100112
+    second: Eye_Mesh
+  - first:
+      1: 100114
+    second: EyeFocus_Left
+  - first:
+      1: 100116
+    second: EyeFocus_Left_end
+  - first:
+      1: 100118
+    second: EyeFocus_Right
+  - first:
+      1: 100120
+    second: EyeFocus_Right_end
+  - first:
+      1: 100122
+    second: EyeLid_Lower.L
+  - first:
+      1: 100124
+    second: EyeLid_Lower.L_end
+  - first:
+      1: 100126
+    second: EyeLid_Lower.R
+  - first:
+      1: 100128
+    second: EyeLid_Lower.R_end
+  - first:
+      1: 100130
+    second: EyeLid_Upper.L
+  - first:
+      1: 100132
+    second: EyeLid_Upper.L_end
+  - first:
+      1: 100134
+    second: EyeLid_Upper.R
+  - first:
+      1: 100136
+    second: EyeLid_Upper.R_end
+  - first:
+      1: 100138
+    second: Front_Calf.L
+  - first:
+      1: 100140
+    second: Front_Calf.L.001
+  - first:
+      1: 100142
+    second: Front_Calf.R
+  - first:
+      1: 100144
+    second: Front_Calf.R.001
+  - first:
+      1: 100146
+    second: Front_Hoof.L
+  - first:
+      1: 100148
+    second: Front_Hoof.L.001
+  - first:
+      1: 100150
+    second: Front_Hoof.L.001_end
+  - first:
+      1: 100152
+    second: Front_Hoof.L_end
+  - first:
+      1: 100154
+    second: Front_Hoof.R
+  - first:
+      1: 100156
+    second: Front_Hoof.R.001
+  - first:
+      1: 100158
+    second: Front_Hoof.R.001_end
+  - first:
+      1: 100160
+    second: Front_Hoof.R_end
+  - first:
+      1: 100162
+    second: Front_Hoof_Pull.L
+  - first:
+      1: 100164
+    second: Front_Hoof_Pull.R
+  - first:
+      1: 100166
+    second: Front_Hoof_Target.L
+  - first:
+      1: 100168
+    second: Front_Hoof_Target.L_end
+  - first:
+      1: 100170
+    second: Front_Hoof_Target.R
+  - first:
+      1: 100172
+    second: Front_Hoof_Target.R_end
+  - first:
+      1: 100174
+    second: Front_Leg_Target.L
+  - first:
+      1: 100176
+    second: Front_Leg_Target.L_end
+  - first:
+      1: 100178
+    second: Front_Leg_Target.R
+  - first:
+      1: 100180
+    second: Front_Leg_Target.R_end
+  - first:
+      1: 100182
+    second: Front_Shin.L
+  - first:
+      1: 100184
+    second: Front_Shin.L.001
+  - first:
+      1: 100186
+    second: Front_Shin.L.001_end
+  - first:
+      1: 100188
+    second: Front_Shin.R
+  - first:
+      1: 100190
+    second: Front_Shin.R.001
+  - first:
+      1: 100192
+    second: Front_Shin.R.001_end
+  - first:
+      1: 100194
+    second: Front_UpperLeg.L
+  - first:
+      1: 100196
+    second: Front_UpperLeg.L.001
+  - first:
+      1: 100198
+    second: Front_UpperLeg.R
+  - first:
+      1: 100200
+    second: Front_UpperLeg.R.001
+  - first:
+      1: 100202
+    second: Head
+  - first:
+      1: 100204
+    second: Head_Control_Mesh
+  - first:
+      1: 100206
+    second: Head_Focus
+  - first:
+      1: 100208
+    second: Head_Focus_Mesh
+  - first:
+      1: 100210
+    second: Head_Ik
+  - first:
+      1: 100212
+    second: Head_Ik_end
+  - first:
+      1: 100214
+    second: Head_Pull
+  - first:
+      1: 100216
+    second: Heads_Eye
+  - first:
+      1: 100218
+    second: Hoof_Lock_Back.L
+  - first:
+      1: 100220
+    second: Hoof_Lock_Back.L_end
+  - first:
+      1: 100222
+    second: Hoof_Lock_Back.R
+  - first:
+      1: 100224
+    second: Hoof_Lock_Back.R_end
+  - first:
+      1: 100226
+    second: Hoof_Lock_Front.L
+  - first:
+      1: 100228
+    second: Hoof_Lock_Front.L_end
+  - first:
+      1: 100230
+    second: Hoof_Lock_Front.R
+  - first:
+      1: 100232
+    second: Hoof_Lock_Front.R_end
+  - first:
+      1: 100234
+    second: Hoof_Pull_Mesh
+  - first:
+      1: 100236
+    second: HorseMesh.001
+  - first:
+      1: 100238
+    second: Jaw
+  - first:
+      1: 100240
+    second: Leg_Mesh
+  - first:
+      1: 100242
+    second: Lower_Lip
+  - first:
+      1: 100244
+    second: Lower_Lip_end
+  - first:
+      1: 100246
+    second: Minds_Ear
+  - first:
+      1: 100248
+    second: Minds_Ear_end
+  - first:
+      1: 100250
+    second: Neck_Adj
+  - first:
+      1: 100252
+    second: Neck_Adj_end
+  - first:
+      1: 100254
+    second: Neck_Back
+  - first:
+      1: 100256
+    second: Neck_Back_IK
+  - first:
+      1: 100258
+    second: Neck_Middle
+  - first:
+      1: 100260
+    second: Neck_Middle_IK
+  - first:
+      1: 100262
+    second: Neck_Upper
+  - first:
+      1: 100264
+    second: Neck_Upper_IK
+  - first:
+      1: 100266
+    second: Neck_Upper_IK_end
+  - first:
+      1: 100268
+    second: Nose_Back.L
+  - first:
+      1: 100270
+    second: Nose_Back.R
+  - first:
+      1: 100272
+    second: Nose_Forward.L
+  - first:
+      1: 100274
+    second: Nose_Forward.L_end
+  - first:
+      1: 100276
+    second: Nose_Forward.R
+  - first:
+      1: 100278
+    second: Nose_Forward.R_end
+  - first:
+      1: 100280
+    second: Nose_Mesh
+  - first:
+      1: 100282
+    second: Rear_Calf.L
+  - first:
+      1: 100284
+    second: Rear_Calf.L.001
+  - first:
+      1: 100286
+    second: Rear_Calf.R
+  - first:
+      1: 100288
+    second: Rear_Calf.R.001
+  - first:
+      1: 100290
+    second: Rear_Hoof.L
+  - first:
+      1: 100292
+    second: Rear_Hoof.L.001
+  - first:
+      1: 100294
+    second: Rear_Hoof.L.001_end
+  - first:
+      1: 100296
+    second: Rear_Hoof.L_end
+  - first:
+      1: 100298
+    second: Rear_Hoof.R
+  - first:
+      1: 100300
+    second: Rear_Hoof.R.001
+  - first:
+      1: 100302
+    second: Rear_Hoof.R.001_end
+  - first:
+      1: 100304
+    second: Rear_Hoof.R_end
+  - first:
+      1: 100306
+    second: Rear_Hoof_Pull.L
+  - first:
+      1: 100308
+    second: Rear_Hoof_Pull.R
+  - first:
+      1: 100310
+    second: Rear_Hoof_Target.L
+  - first:
+      1: 100312
+    second: Rear_Hoof_Target.L_end
+  - first:
+      1: 100314
+    second: Rear_Hoof_Target.R
+  - first:
+      1: 100316
+    second: Rear_Hoof_Target.R_end
+  - first:
+      1: 100318
+    second: Rear_LowerThigh.L
+  - first:
+      1: 100320
+    second: Rear_LowerThigh.L.001
+  - first:
+      1: 100322
+    second: Rear_LowerThigh.R
+  - first:
+      1: 100324
+    second: Rear_LowerThigh.R.001
+  - first:
+      1: 100326
+    second: Rear_Shin.L
+  - first:
+      1: 100328
+    second: Rear_Shin.L.001
+  - first:
+      1: 100330
+    second: Rear_Shin.L.001_end
+  - first:
+      1: 100332
+    second: Rear_Shin.R
+  - first:
+      1: 100334
+    second: Rear_Shin.R.001
+  - first:
+      1: 100336
+    second: Rear_Shin.R.001_end
+  - first:
+      1: 100338
+    second: Rear_Shin_IK.L
+  - first:
+      1: 100340
+    second: Rear_Shin_IK.R
+  - first:
+      1: 100342
+    second: Rear_Shin_Target.L
+  - first:
+      1: 100344
+    second: Rear_Shin_Target.L_end
+  - first:
+      1: 100346
+    second: Rear_Shin_Target.R
+  - first:
+      1: 100348
+    second: Rear_Shin_Target.R_end
+  - first:
+      1: 100350
+    second: Rear_Thigh_IK.L
+  - first:
+      1: 100352
+    second: Rear_Thigh_IK.R
+  - first:
+      1: 100354
+    second: Rear_Thigh_SoftIK.L
+  - first:
+      1: 100356
+    second: Rear_Thigh_SoftIK.R
+  - first:
+      1: 100358
+    second: Rear_Thigh_Target.L
+  - first:
+      1: 100360
+    second: Rear_Thigh_Target.R
+  - first:
+      1: 100362
+    second: Rear_UpperThigh.L
+  - first:
+      1: 100364
+    second: Rear_UpperThigh.L.001
+  - first:
+      1: 100366
+    second: Rear_UpperThigh.R
+  - first:
+      1: 100368
+    second: Rear_UpperThigh.R.001
+  - first:
+      1: 100370
+    second: Rig
+  - first:
+      1: 100372
+    second: //RootNode
+  - first:
+      1: 100374
+    second: Root_Motion
+  - first:
+      1: 100376
+    second: Root_Origin
+  - first:
+      1: 100378
+    second: Rope_Pull_Mesh
+  - first:
+      1: 100380
+    second: Saddle_MCH_Back
+  - first:
+      1: 100382
+    second: Saddle_MCH_Back_end
+  - first:
+      1: 100384
+    second: Saddle_MCH_Forward
+  - first:
+      1: 100386
+    second: Saddle_MCH_Forward.001
+  - first:
+      1: 100388
+    second: Saddle_MCH_Forward.001_end
+  - first:
+      1: 100390
+    second: Saddle_MCH_Forward.002
+  - first:
+      1: 100392
+    second: Saddle_MCH_Forward.002_end
+  - first:
+      1: 100394
+    second: Saddle_Root
+  - first:
+      1: 100396
+    second: Saddle_Root_end
+  - first:
+      1: 100398
+    second: ShinPull.L
+  - first:
+      1: 100400
+    second: ShinPull.R
+  - first:
+      1: 100402
+    second: Shoulder.L
+  - first:
+      1: 100404
+    second: Shoulder.L.001
+  - first:
+      1: 100406
+    second: Shoulder.R
+  - first:
+      1: 100408
+    second: Shoulder.R.001
+  - first:
+      1: 100410
+    second: Shoulder_SoftIK.L
+  - first:
+      1: 100412
+    second: Shoulder_SoftIK.R
+  - first:
+      1: 100414
+    second: Shoulder_Target.L
+  - first:
+      1: 100416
+    second: Shoulder_Target.L_end
+  - first:
+      1: 100418
+    second: Shoulder_Target.R
+  - first:
+      1: 100420
+    second: Shoulder_Target.R_end
+  - first:
+      1: 100422
+    second: ShoulderPull.L
+  - first:
+      1: 100424
+    second: ShoulderPull.R
+  - first:
+      1: 100426
+    second: Tail.001
+  - first:
+      1: 100428
+    second: Tail.002
+  - first:
+      1: 100430
+    second: Tail.003
+  - first:
+      1: 100432
+    second: Tail.004
+  - first:
+      1: 100434
+    second: Tail.005
+  - first:
+      1: 100436
+    second: Tail.006
+  - first:
+      1: 100438
+    second: Tail.007
+  - first:
+      1: 100440
+    second: Tail.007_end
+  - first:
+      1: 100442
+    second: Tail_Base
+  - first:
+      1: 100444
+    second: Tail_Pull_Base
+  - first:
+      1: 100446
+    second: Tail_Pull_Base_end
+  - first:
+      1: 100448
+    second: Tail_Pull_End
+  - first:
+      1: 100450
+    second: Tail_Pull_End.001
+  - first:
+      1: 100452
+    second: Tail_Pull_End_end
+  - first:
+      1: 100454
+    second: Target_Mesh
+  - first:
+      1: 100456
+    second: Tongue.001
+  - first:
+      1: 100458
+    second: Tongue.002
+  - first:
+      1: 100460
+    second: Tongue.003
+  - first:
+      1: 100462
+    second: Tongue.004
+  - first:
+      1: 100464
+    second: Tongue.005
+  - first:
+      1: 100466
+    second: Tongue.006
+  - first:
+      1: 100468
+    second: Tongue.007
+  - first:
+      1: 100470
+    second: Tongue.007_end
+  - first:
+      1: 100472
+    second: Tongue_pull
+  - first:
+      1: 100474
+    second: Tongue_pull_end
+  - first:
+      1: 100476
+    second: Upper_Lip
+  - first:
+      1: 100478
+    second: Upper_Lip_end
+  - first:
+      4: 400000
+    second: Back_Back
+  - first:
+      4: 400002
+    second: Back_Back_FK
+  - first:
+      4: 400004
+    second: Back_Back_FK_end
+  - first:
+      4: 400006
+    second: Back_Back_IK
+  - first:
+      4: 400008
+    second: Back_Forward
+  - first:
+      4: 400010
+    second: Back_Forward.003
+  - first:
+      4: 400012
+    second: Back_Forward.003_end
+  - first:
+      4: 400014
+    second: Back_Forward_FK
+  - first:
+      4: 400016
+    second: Back_Forward_IK
+  - first:
+      4: 400018
+    second: Back_Forward_IK_end
+  - first:
+      4: 400020
+    second: Back_Forward_Pull
+  - first:
+      4: 400022
+    second: Back_Forward_Pull_end
+  - first:
+      4: 400024
+    second: Back_Hind_Pull
+  - first:
+      4: 400026
+    second: Back_Hind_Pull_end
+  - first:
+      4: 400028
+    second: BackMiddle
+  - first:
+      4: 400030
+    second: BackMiddle_end
+  - first:
+      4: 400032
+    second: BackMiddle_FK
+  - first:
+      4: 400034
+    second: BackMiddle_FK_end
+  - first:
+      4: 400036
+    second: BackMiddle_IK
+  - first:
+      4: 400038
+    second: Butt.L
+  - first:
+      4: 400040
+    second: Butt.L.001
+  - first:
+      4: 400042
+    second: Butt.R
+  - first:
+      4: 400044
+    second: Butt.R.001
+  - first:
+      4: 400046
+    second: Butt_IK.L
+  - first:
+      4: 400048
+    second: Butt_IK.R
+  - first:
+      4: 400050
+    second: Butt_Soft_IK.L
+  - first:
+      4: 400052
+    second: Butt_Soft_IK.R
+  - first:
+      4: 400054
+    second: Butt_Target.L
+  - first:
+      4: 400056
+    second: Butt_Target.L_end
+  - first:
+      4: 400058
+    second: Butt_Target.R
+  - first:
+      4: 400060
+    second: Butt_Target.R_end
+  - first:
+      4: 400062
+    second: Chest_Pull
+  - first:
+      4: 400064
+    second: Chest_Pull_Mesh
+  - first:
+      4: 400066
+    second: Ear Focus Mesh
+  - first:
+      4: 400068
+    second: Ear_Mesh
+  - first:
+      4: 400070
+    second: EarBase.L
+  - first:
+      4: 400072
+    second: EarBase.R
+  - first:
+      4: 400074
+    second: EarFocus
+  - first:
+      4: 400076
+    second: EarFocus_end
+  - first:
+      4: 400078
+    second: EarFocus_Left
+  - first:
+      4: 400080
+    second: EarFocus_Left_end
+  - first:
+      4: 400082
+    second: EarFocus_Right
+  - first:
+      4: 400084
+    second: EarFocus_Right_end
+  - first:
+      4: 400086
+    second: EarLower.L
+  - first:
+      4: 400088
+    second: EarLower.L_end
+  - first:
+      4: 400090
+    second: EarLower.R
+  - first:
+      4: 400092
+    second: EarLower.R_end
+  - first:
+      4: 400094
+    second: EarUpper.L
+  - first:
+      4: 400096
+    second: EarUpper.L_end
+  - first:
+      4: 400098
+    second: EarUpper.R
+  - first:
+      4: 400100
+    second: EarUpper.R_end
+  - first:
+      4: 400102
+    second: Eye.L
+  - first:
+      4: 400104
+    second: Eye.L_end
+  - first:
+      4: 400106
+    second: Eye.R
+  - first:
+      4: 400108
+    second: Eye.R_end
+  - first:
+      4: 400110
+    second: Eye_Focus_Mesh
+  - first:
+      4: 400112
+    second: Eye_Mesh
+  - first:
+      4: 400114
+    second: EyeFocus_Left
+  - first:
+      4: 400116
+    second: EyeFocus_Left_end
+  - first:
+      4: 400118
+    second: EyeFocus_Right
+  - first:
+      4: 400120
+    second: EyeFocus_Right_end
+  - first:
+      4: 400122
+    second: EyeLid_Lower.L
+  - first:
+      4: 400124
+    second: EyeLid_Lower.L_end
+  - first:
+      4: 400126
+    second: EyeLid_Lower.R
+  - first:
+      4: 400128
+    second: EyeLid_Lower.R_end
+  - first:
+      4: 400130
+    second: EyeLid_Upper.L
+  - first:
+      4: 400132
+    second: EyeLid_Upper.L_end
+  - first:
+      4: 400134
+    second: EyeLid_Upper.R
+  - first:
+      4: 400136
+    second: EyeLid_Upper.R_end
+  - first:
+      4: 400138
+    second: Front_Calf.L
+  - first:
+      4: 400140
+    second: Front_Calf.L.001
+  - first:
+      4: 400142
+    second: Front_Calf.R
+  - first:
+      4: 400144
+    second: Front_Calf.R.001
+  - first:
+      4: 400146
+    second: Front_Hoof.L
+  - first:
+      4: 400148
+    second: Front_Hoof.L.001
+  - first:
+      4: 400150
+    second: Front_Hoof.L.001_end
+  - first:
+      4: 400152
+    second: Front_Hoof.L_end
+  - first:
+      4: 400154
+    second: Front_Hoof.R
+  - first:
+      4: 400156
+    second: Front_Hoof.R.001
+  - first:
+      4: 400158
+    second: Front_Hoof.R.001_end
+  - first:
+      4: 400160
+    second: Front_Hoof.R_end
+  - first:
+      4: 400162
+    second: Front_Hoof_Pull.L
+  - first:
+      4: 400164
+    second: Front_Hoof_Pull.R
+  - first:
+      4: 400166
+    second: Front_Hoof_Target.L
+  - first:
+      4: 400168
+    second: Front_Hoof_Target.L_end
+  - first:
+      4: 400170
+    second: Front_Hoof_Target.R
+  - first:
+      4: 400172
+    second: Front_Hoof_Target.R_end
+  - first:
+      4: 400174
+    second: Front_Leg_Target.L
+  - first:
+      4: 400176
+    second: Front_Leg_Target.L_end
+  - first:
+      4: 400178
+    second: Front_Leg_Target.R
+  - first:
+      4: 400180
+    second: Front_Leg_Target.R_end
+  - first:
+      4: 400182
+    second: Front_Shin.L
+  - first:
+      4: 400184
+    second: Front_Shin.L.001
+  - first:
+      4: 400186
+    second: Front_Shin.L.001_end
+  - first:
+      4: 400188
+    second: Front_Shin.R
+  - first:
+      4: 400190
+    second: Front_Shin.R.001
+  - first:
+      4: 400192
+    second: Front_Shin.R.001_end
+  - first:
+      4: 400194
+    second: Front_UpperLeg.L
+  - first:
+      4: 400196
+    second: Front_UpperLeg.L.001
+  - first:
+      4: 400198
+    second: Front_UpperLeg.R
+  - first:
+      4: 400200
+    second: Front_UpperLeg.R.001
+  - first:
+      4: 400202
+    second: Head
+  - first:
+      4: 400204
+    second: Head_Control_Mesh
+  - first:
+      4: 400206
+    second: Head_Focus
+  - first:
+      4: 400208
+    second: Head_Focus_Mesh
+  - first:
+      4: 400210
+    second: Head_Ik
+  - first:
+      4: 400212
+    second: Head_Ik_end
+  - first:
+      4: 400214
+    second: Head_Pull
+  - first:
+      4: 400216
+    second: Heads_Eye
+  - first:
+      4: 400218
+    second: Hoof_Lock_Back.L
+  - first:
+      4: 400220
+    second: Hoof_Lock_Back.L_end
+  - first:
+      4: 400222
+    second: Hoof_Lock_Back.R
+  - first:
+      4: 400224
+    second: Hoof_Lock_Back.R_end
+  - first:
+      4: 400226
+    second: Hoof_Lock_Front.L
+  - first:
+      4: 400228
+    second: Hoof_Lock_Front.L_end
+  - first:
+      4: 400230
+    second: Hoof_Lock_Front.R
+  - first:
+      4: 400232
+    second: Hoof_Lock_Front.R_end
+  - first:
+      4: 400234
+    second: Hoof_Pull_Mesh
+  - first:
+      4: 400236
+    second: HorseMesh.001
+  - first:
+      4: 400238
+    second: Jaw
+  - first:
+      4: 400240
+    second: Leg_Mesh
+  - first:
+      4: 400242
+    second: Lower_Lip
+  - first:
+      4: 400244
+    second: Lower_Lip_end
+  - first:
+      4: 400246
+    second: Minds_Ear
+  - first:
+      4: 400248
+    second: Minds_Ear_end
+  - first:
+      4: 400250
+    second: Neck_Adj
+  - first:
+      4: 400252
+    second: Neck_Adj_end
+  - first:
+      4: 400254
+    second: Neck_Back
+  - first:
+      4: 400256
+    second: Neck_Back_IK
+  - first:
+      4: 400258
+    second: Neck_Middle
+  - first:
+      4: 400260
+    second: Neck_Middle_IK
+  - first:
+      4: 400262
+    second: Neck_Upper
+  - first:
+      4: 400264
+    second: Neck_Upper_IK
+  - first:
+      4: 400266
+    second: Neck_Upper_IK_end
+  - first:
+      4: 400268
+    second: Nose_Back.L
+  - first:
+      4: 400270
+    second: Nose_Back.R
+  - first:
+      4: 400272
+    second: Nose_Forward.L
+  - first:
+      4: 400274
+    second: Nose_Forward.L_end
+  - first:
+      4: 400276
+    second: Nose_Forward.R
+  - first:
+      4: 400278
+    second: Nose_Forward.R_end
+  - first:
+      4: 400280
+    second: Nose_Mesh
+  - first:
+      4: 400282
+    second: Rear_Calf.L
+  - first:
+      4: 400284
+    second: Rear_Calf.L.001
+  - first:
+      4: 400286
+    second: Rear_Calf.R
+  - first:
+      4: 400288
+    second: Rear_Calf.R.001
+  - first:
+      4: 400290
+    second: Rear_Hoof.L
+  - first:
+      4: 400292
+    second: Rear_Hoof.L.001
+  - first:
+      4: 400294
+    second: Rear_Hoof.L.001_end
+  - first:
+      4: 400296
+    second: Rear_Hoof.L_end
+  - first:
+      4: 400298
+    second: Rear_Hoof.R
+  - first:
+      4: 400300
+    second: Rear_Hoof.R.001
+  - first:
+      4: 400302
+    second: Rear_Hoof.R.001_end
+  - first:
+      4: 400304
+    second: Rear_Hoof.R_end
+  - first:
+      4: 400306
+    second: Rear_Hoof_Pull.L
+  - first:
+      4: 400308
+    second: Rear_Hoof_Pull.R
+  - first:
+      4: 400310
+    second: Rear_Hoof_Target.L
+  - first:
+      4: 400312
+    second: Rear_Hoof_Target.L_end
+  - first:
+      4: 400314
+    second: Rear_Hoof_Target.R
+  - first:
+      4: 400316
+    second: Rear_Hoof_Target.R_end
+  - first:
+      4: 400318
+    second: Rear_LowerThigh.L
+  - first:
+      4: 400320
+    second: Rear_LowerThigh.L.001
+  - first:
+      4: 400322
+    second: Rear_LowerThigh.R
+  - first:
+      4: 400324
+    second: Rear_LowerThigh.R.001
+  - first:
+      4: 400326
+    second: Rear_Shin.L
+  - first:
+      4: 400328
+    second: Rear_Shin.L.001
+  - first:
+      4: 400330
+    second: Rear_Shin.L.001_end
+  - first:
+      4: 400332
+    second: Rear_Shin.R
+  - first:
+      4: 400334
+    second: Rear_Shin.R.001
+  - first:
+      4: 400336
+    second: Rear_Shin.R.001_end
+  - first:
+      4: 400338
+    second: Rear_Shin_IK.L
+  - first:
+      4: 400340
+    second: Rear_Shin_IK.R
+  - first:
+      4: 400342
+    second: Rear_Shin_Target.L
+  - first:
+      4: 400344
+    second: Rear_Shin_Target.L_end
+  - first:
+      4: 400346
+    second: Rear_Shin_Target.R
+  - first:
+      4: 400348
+    second: Rear_Shin_Target.R_end
+  - first:
+      4: 400350
+    second: Rear_Thigh_IK.L
+  - first:
+      4: 400352
+    second: Rear_Thigh_IK.R
+  - first:
+      4: 400354
+    second: Rear_Thigh_SoftIK.L
+  - first:
+      4: 400356
+    second: Rear_Thigh_SoftIK.R
+  - first:
+      4: 400358
+    second: Rear_Thigh_Target.L
+  - first:
+      4: 400360
+    second: Rear_Thigh_Target.R
+  - first:
+      4: 400362
+    second: Rear_UpperThigh.L
+  - first:
+      4: 400364
+    second: Rear_UpperThigh.L.001
+  - first:
+      4: 400366
+    second: Rear_UpperThigh.R
+  - first:
+      4: 400368
+    second: Rear_UpperThigh.R.001
+  - first:
+      4: 400370
+    second: Rig
+  - first:
+      4: 400372
+    second: //RootNode
+  - first:
+      4: 400374
+    second: Root_Motion
+  - first:
+      4: 400376
+    second: Root_Origin
+  - first:
+      4: 400378
+    second: Rope_Pull_Mesh
+  - first:
+      4: 400380
+    second: Saddle_MCH_Back
+  - first:
+      4: 400382
+    second: Saddle_MCH_Back_end
+  - first:
+      4: 400384
+    second: Saddle_MCH_Forward
+  - first:
+      4: 400386
+    second: Saddle_MCH_Forward.001
+  - first:
+      4: 400388
+    second: Saddle_MCH_Forward.001_end
+  - first:
+      4: 400390
+    second: Saddle_MCH_Forward.002
+  - first:
+      4: 400392
+    second: Saddle_MCH_Forward.002_end
+  - first:
+      4: 400394
+    second: Saddle_Root
+  - first:
+      4: 400396
+    second: Saddle_Root_end
+  - first:
+      4: 400398
+    second: ShinPull.L
+  - first:
+      4: 400400
+    second: ShinPull.R
+  - first:
+      4: 400402
+    second: Shoulder.L
+  - first:
+      4: 400404
+    second: Shoulder.L.001
+  - first:
+      4: 400406
+    second: Shoulder.R
+  - first:
+      4: 400408
+    second: Shoulder.R.001
+  - first:
+      4: 400410
+    second: Shoulder_SoftIK.L
+  - first:
+      4: 400412
+    second: Shoulder_SoftIK.R
+  - first:
+      4: 400414
+    second: Shoulder_Target.L
+  - first:
+      4: 400416
+    second: Shoulder_Target.L_end
+  - first:
+      4: 400418
+    second: Shoulder_Target.R
+  - first:
+      4: 400420
+    second: Shoulder_Target.R_end
+  - first:
+      4: 400422
+    second: ShoulderPull.L
+  - first:
+      4: 400424
+    second: ShoulderPull.R
+  - first:
+      4: 400426
+    second: Tail.001
+  - first:
+      4: 400428
+    second: Tail.002
+  - first:
+      4: 400430
+    second: Tail.003
+  - first:
+      4: 400432
+    second: Tail.004
+  - first:
+      4: 400434
+    second: Tail.005
+  - first:
+      4: 400436
+    second: Tail.006
+  - first:
+      4: 400438
+    second: Tail.007
+  - first:
+      4: 400440
+    second: Tail.007_end
+  - first:
+      4: 400442
+    second: Tail_Base
+  - first:
+      4: 400444
+    second: Tail_Pull_Base
+  - first:
+      4: 400446
+    second: Tail_Pull_Base_end
+  - first:
+      4: 400448
+    second: Tail_Pull_End
+  - first:
+      4: 400450
+    second: Tail_Pull_End.001
+  - first:
+      4: 400452
+    second: Tail_Pull_End_end
+  - first:
+      4: 400454
+    second: Target_Mesh
+  - first:
+      4: 400456
+    second: Tongue.001
+  - first:
+      4: 400458
+    second: Tongue.002
+  - first:
+      4: 400460
+    second: Tongue.003
+  - first:
+      4: 400462
+    second: Tongue.004
+  - first:
+      4: 400464
+    second: Tongue.005
+  - first:
+      4: 400466
+    second: Tongue.006
+  - first:
+      4: 400468
+    second: Tongue.007
+  - first:
+      4: 400470
+    second: Tongue.007_end
+  - first:
+      4: 400472
+    second: Tongue_pull
+  - first:
+      4: 400474
+    second: Tongue_pull_end
+  - first:
+      4: 400476
+    second: Upper_Lip
+  - first:
+      4: 400478
+    second: Upper_Lip_end
+  - first:
+      21: 2100000
+    second: Body
+  - first:
+      21: 2100002
+    second: Mouth
+  - first:
+      21: 2100004
+    second: Eye
+  - first:
+      23: 2300000
+    second: Chest_Pull_Mesh
+  - first:
+      23: 2300002
+    second: Ear Focus Mesh
+  - first:
+      23: 2300004
+    second: Ear_Mesh
+  - first:
+      23: 2300006
+    second: Eye_Focus_Mesh
+  - first:
+      23: 2300008
+    second: Eye_Mesh
+  - first:
+      23: 2300010
+    second: Head_Control_Mesh
+  - first:
+      23: 2300012
+    second: Head_Focus_Mesh
+  - first:
+      23: 2300014
+    second: Hoof_Pull_Mesh
+  - first:
+      23: 2300016
+    second: Leg_Mesh
+  - first:
+      23: 2300018
+    second: Nose_Mesh
+  - first:
+      23: 2300020
+    second: Rope_Pull_Mesh
+  - first:
+      23: 2300022
+    second: Target_Mesh
+  - first:
+      33: 3300000
+    second: Chest_Pull_Mesh
+  - first:
+      33: 3300002
+    second: Ear Focus Mesh
+  - first:
+      33: 3300004
+    second: Ear_Mesh
+  - first:
+      33: 3300006
+    second: Eye_Focus_Mesh
+  - first:
+      33: 3300008
+    second: Eye_Mesh
+  - first:
+      33: 3300010
+    second: Head_Control_Mesh
+  - first:
+      33: 3300012
+    second: Head_Focus_Mesh
+  - first:
+      33: 3300014
+    second: Hoof_Pull_Mesh
+  - first:
+      33: 3300016
+    second: Leg_Mesh
+  - first:
+      33: 3300018
+    second: Nose_Mesh
+  - first:
+      33: 3300020
+    second: Rope_Pull_Mesh
+  - first:
+      33: 3300022
+    second: Target_Mesh
+  - first:
+      43: 4300000
+    second: HorseMesh.001
+  - first:
+      43: 4300002
+    second: Leg_Mesh
+  - first:
+      43: 4300004
+    second: Nose_Mesh
+  - first:
+      43: 4300006
+    second: Eye_Mesh
+  - first:
+      43: 4300008
+    second: Ear_Mesh
+  - first:
+      43: 4300010
+    second: Rope_Pull_Mesh
+  - first:
+      43: 4300012
+    second: Hoof_Pull_Mesh
+  - first:
+      43: 4300014
+    second: Target_Mesh
+  - first:
+      43: 4300016
+    second: Chest_Pull_Mesh
+  - first:
+      43: 4300018
+    second: Head_Control_Mesh
+  - first:
+      43: 4300020
+    second: Head_Focus_Mesh
+  - first:
+      43: 4300022
+    second: Ear Focus Mesh
+  - first:
+      43: 4300024
+    second: Eye_Focus_Mesh
+  - first:
+      74: 7400000
+    second: Rig|RigAction
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: HorseMesh.001
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: ac3e162b375490d45b69b5b5456fc3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 67a57a17e729aa74d9e84bf5bb0677eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: d26e5b114e05ea642985f2676dbd4d7c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: LP_Horse_Mesh_2_9(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rig
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Root_Motion
+      parentName: Rig
+      position: {x: 0, y: -0.06651786, z: 0.063430086}
+      rotation: {x: -0.00039817562, y: 0.7071067, z: 0.70710665, w: -0.0003981755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Back
+      parentName: Root_Motion
+      position: {x: 0.000000012748383, y: -0.010256388, z: 0.067092426}
+      rotation: {x: -1.1789124e-17, y: 0.192531, z: 0.9812909, w: -6.008674e-17}
+      scale: {x: 1, y: 1.0000002, z: 1.000001}
+    - name: Rear_Shin_IK.L
+      parentName: Back_Back
+      position: {x: -0.008816675, y: 0.0085141985, z: -0.06336639}
+      rotation: {x: 0.000000009429393, y: 0.19253105, z: 0.9812909, w: 0.00000013384675}
+      scale: {x: 1, y: 1.0000002, z: 1.0000014}
+    - name: Rear_Calf.L.001
+      parentName: Rear_Shin_IK.L
+      position: {x: -0.0000000016854107, y: -0.000000046912938, z: 0.000000052452087}
+      rotation: {x: -0.5945579, y: 0.00000015127608, z: -0.00000008352261, w: 0.8040528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof.L.001
+      parentName: Rear_Calf.L.001
+      position: {x: -1.1744802e-10, y: 0.007721705, z: 9.262032e-10}
+      rotation: {x: 0.21462782, y: -0.00000020835186, z: -0.00000009918394, w: 0.97669595}
+      scale: {x: 1, y: 1.0000007, z: 0.999999}
+    - name: Rear_Hoof.L.001_end
+      parentName: Rear_Hoof.L.001
+      position: {x: -0, y: 0.0060072453, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof_Pull.L
+      parentName: Rear_Shin_IK.L
+      position: {x: -0.0000000016202856, y: 0.0060729817, z: -0.011640869}
+      rotation: {x: 0.000000038546304, y: -3.618247e-17, z: 1, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof_Target.L
+      parentName: Rear_Hoof_Pull.L
+      position: {x: 8.8907653e-10, y: 0.02199999, z: 9.2152804e-17}
+      rotation: {x: 4.099284e-15, y: -1.6697754e-13, z: -4.693561e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof_Target.L_end
+      parentName: Rear_Hoof_Target.L
+      position: {x: -0, y: 0.013000007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Shin_IK.R
+      parentName: Back_Back
+      position: {x: 0.008630718, y: 0.008585915, z: -0.06339566}
+      rotation: {x: 0.000000009429389, y: 0.19253102, z: 0.9812909, w: 0.00000013384675}
+      scale: {x: 1, y: 1.0000001, z: 1.0000011}
+    - name: Rear_Hoof_Pull.R
+      parentName: Rear_Shin_IK.R
+      position: {x: -0.0000000010174682, y: 0.00607299, z: -0.011640874}
+      rotation: {x: 0.00000003854644, y: -3.6187253e-17, z: 1, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof_Target.R
+      parentName: Rear_Hoof_Pull.R
+      position: {x: 2.862612e-10, y: 0.021999985, z: 5.3643934e-10}
+      rotation: {x: 0.00000002980228, y: -1.1771321e-13, z: -4.6941767e-10, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Rear_Hoof_Target.R_end
+      parentName: Rear_Hoof_Target.R
+      position: {x: -0, y: 0.013000016, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Calf.R.001
+      parentName: Rear_Shin_IK.R
+      position: {x: 1.0949975e-10, y: -0.000000043669864, z: 0.000000017881392}
+      rotation: {x: -0.59455657, y: 0.0000002161909, z: -0.000000083522416, w: 0.8040538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Hoof.R.001
+      parentName: Rear_Calf.R.001
+      position: {x: 1.6470295e-10, y: 0.007721718, z: -0.000000003834064}
+      rotation: {x: 0.21462663, y: -0.00000015844189, z: 0.000000071982605, w: 0.9766962}
+      scale: {x: 1, y: 1.0000008, z: 0.99999964}
+    - name: Rear_Hoof.R.001_end
+      parentName: Rear_Hoof.R.001
+      position: {x: -0, y: 0.006007236, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt.L
+      parentName: Back_Back
+      position: {x: -0.0053668907, y: 0.0056983638, z: -0.0029401528}
+      rotation: {x: -0.0093052685, y: 0.012657832, z: 0.049880944, w: 0.9986316}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Rear_UpperThigh.L
+      parentName: Butt.L
+      position: {x: -0, y: 0.017410636, z: -0.0000000019557773}
+      rotation: {x: 0.07352636, y: 0.81872004, z: -0.5652988, w: -0.06876559}
+      scale: {x: 1, y: 0.9999983, z: 1.0000011}
+    - name: Rear_LowerThigh.L
+      parentName: Rear_UpperThigh.L
+      position: {x: 7.999671e-10, y: 0.015792826, z: -0.0000000010276963}
+      rotation: {x: -0.47614703, y: 0.000000038341664, z: 0.000000107623244, w: 0.8793657}
+      scale: {x: 0.99999803, y: 0.9999993, z: 0.9999987}
+    - name: Rear_Shin.L
+      parentName: Rear_LowerThigh.L
+      position: {x: -1.5141402e-10, y: 0.01761236, z: -0.0000000014938311}
+      rotation: {x: 0.73123944, y: -0.0564911, z: -0.0019505806, w: 0.6797749}
+      scale: {x: 0.99999994, y: 1.0000006, z: 0.99999976}
+    - name: Rear_Calf.L
+      parentName: Rear_Shin.L
+      position: {x: 4.4145426e-10, y: 0.018113423, z: -0.0000000023387718}
+      rotation: {x: 0.1855784, y: 0.00000056173735, z: 0.000000032003374, w: 0.9826295}
+      scale: {x: 1.0000021, y: 1.0000038, z: 0.99999994}
+    - name: Rear_Hoof.L
+      parentName: Rear_Calf.L
+      position: {x: -1.1744795e-10, y: 0.007721732, z: 0.0000000010007087}
+      rotation: {x: 0.21462782, y: -0.00000020835186, z: -0.00000009918394, w: 0.97669595}
+      scale: {x: 1, y: 1.0000007, z: 0.999999}
+    - name: Rear_Hoof.L_end
+      parentName: Rear_Hoof.L
+      position: {x: -0, y: 0.006007251, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt.R
+      parentName: Back_Back
+      position: {x: 0.005171823, y: 0.0056785033, z: -0.0029437237}
+      rotation: {x: -0.010313392, y: -0.028667627, z: -0.04993433, w: 0.99828774}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Rear_UpperThigh.R
+      parentName: Butt.R
+      position: {x: -0, y: 0.017410643, z: 0.0000000014202669}
+      rotation: {x: -0.082937405, y: 0.819851, z: -0.56377935, w: 0.05584488}
+      scale: {x: 0.9999998, y: 0.9999994, z: 1.0000011}
+    - name: Rear_LowerThigh.R
+      parentName: Rear_UpperThigh.R
+      position: {x: 4.979665e-10, y: 0.015792876, z: 0.0000000014976013}
+      rotation: {x: -0.4751983, y: 0.000009841688, z: -0.000111133835, w: 0.8798787}
+      scale: {x: 0.9999973, y: 0.99999845, z: 0.999999}
+    - name: Rear_Shin.R
+      parentName: Rear_LowerThigh.R
+      position: {x: 1.6822013e-10, y: 0.017612385, z: 0.0000000043806723}
+      rotation: {x: 0.72926086, y: 0.056727212, z: 0.002163153, w: 0.6818769}
+      scale: {x: 1, y: 0.9999997, z: 1.0000006}
+    - name: Rear_Calf.R
+      parentName: Rear_Shin.R
+      position: {x: -6.883056e-10, y: 0.018113459, z: -0.000000002944107}
+      rotation: {x: 0.18742768, y: 0.000045137607, z: 0.00007948884, w: 0.9822784}
+      scale: {x: 1.0000031, y: 1.0000029, z: 1}
+    - name: Rear_Hoof.R
+      parentName: Rear_Calf.R
+      position: {x: 1.6470338e-10, y: 0.007721729, z: -0.0000000021949365}
+      rotation: {x: 0.21462663, y: -0.00000015844189, z: 0.000000071982605, w: 0.9766962}
+      scale: {x: 1, y: 1.0000008, z: 0.99999964}
+    - name: Rear_Hoof.R_end
+      parentName: Rear_Hoof.R
+      position: {x: -0, y: 0.0060072397, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt.L.001
+      parentName: Back_Back
+      position: {x: -0.0053668907, y: 0.0056983638, z: -0.0029401528}
+      rotation: {x: -0.4518874, y: 0.0320328, z: 0.09544021, w: 0.88637626}
+      scale: {x: 1, y: 0.9999998, z: 1.0000001}
+    - name: Rear_UpperThigh.L.001
+      parentName: Butt.L.001
+      position: {x: 2.9802322e-10, y: 0.017410643, z: -0.000000010281801}
+      rotation: {x: 0.07352636, y: 0.81872004, z: -0.5652988, w: -0.06876559}
+      scale: {x: 1, y: 0.9999983, z: 1.0000011}
+    - name: Rear_LowerThigh.L.001
+      parentName: Rear_UpperThigh.L.001
+      position: {x: 0.0000000013960124, y: 0.015792815, z: -0.0000000010276969}
+      rotation: {x: -0.47614703, y: 0.000000038341664, z: 0.000000107623244, w: 0.8793657}
+      scale: {x: 0.99999803, y: 0.9999993, z: 0.9999987}
+    - name: Rear_Shin.L.001
+      parentName: Rear_LowerThigh.L.001
+      position: {x: -0.000000001343507, y: 0.017612359, z: 0.0000000032745402}
+      rotation: {x: 0.35383072, y: -0.00000022647602, z: -0.000000094836345, w: 0.93530947}
+      scale: {x: 1, y: 1.0000006, z: 0.99999976}
+    - name: Rear_Shin.L.001_end
+      parentName: Rear_Shin.L.001
+      position: {x: -0, y: 0.018113438, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt.R.001
+      parentName: Back_Back
+      position: {x: 0.005171823, y: 0.0056785033, z: -0.0029437237}
+      rotation: {x: -0.4528709, y: -0.04640469, z: -0.08856947, w: 0.8859515}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Rear_UpperThigh.R.001
+      parentName: Butt.R.001
+      position: {x: -0, y: 0.017410645, z: 0.000000009764917}
+      rotation: {x: -0.082937405, y: 0.819851, z: -0.56377935, w: 0.05584488}
+      scale: {x: 0.9999998, y: 0.9999994, z: 1.0000011}
+    - name: Rear_LowerThigh.R.001
+      parentName: Rear_UpperThigh.R.001
+      position: {x: 0.0000000010936492, y: 0.015792876, z: 0.0000000044778243}
+      rotation: {x: -0.4751983, y: 0.000009841688, z: -0.000111133835, w: 0.8798787}
+      scale: {x: 0.9999973, y: 0.99999845, z: 0.999999}
+    - name: Rear_Shin.R.001
+      parentName: Rear_LowerThigh.R.001
+      position: {x: 1.7200363e-10, y: 0.017612373, z: 0.000000009149116}
+      rotation: {x: 0.35183612, y: -0.00000003662928, z: -0.000000010305955, w: 0.9360616}
+      scale: {x: 1, y: 0.9999997, z: 1.0000006}
+    - name: Rear_Shin.R.001_end
+      parentName: Rear_Shin.R.001
+      position: {x: -0, y: 0.018113468, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail_Base
+      parentName: Back_Back
+      position: {x: 0.0000000023006816, y: 0.020535624, z: -0.004273207}
+      rotation: {x: -0.25502917, y: -0.000000084290065, z: -0.00000001737923, w: 0.96693337}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Tail.001
+      parentName: Tail_Base
+      position: {x: -6.3948843e-16, y: 0.008463176, z: 0.0000000017881409}
+      rotation: {x: -0.09392685, y: 0.0000000019145583, z: -0.000000022539286, w: 0.9955791}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Tail.002
+      parentName: Tail.001
+      position: {x: 8.5265126e-16, y: 0.0044103027, z: 0.0000000023841868}
+      rotation: {x: 0.04430253, y: 0.00000006775277, z: 0.00000007136745, w: 0.9990182}
+      scale: {x: 0.9999993, y: 1, z: 0.9999994}
+    - name: Tail.003
+      parentName: Tail.002
+      position: {x: -5.684342e-16, y: 0.004960521, z: -0.0000000047683715}
+      rotation: {x: 0.055368017, y: -0, z: -0, w: 0.998466}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Tail.004
+      parentName: Tail.003
+      position: {x: -1.1368684e-15, y: 0.0034255045, z: 5.9604643e-10}
+      rotation: {x: 0.012186871, y: -0, z: -0, w: 0.99992573}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Tail.005
+      parentName: Tail.004
+      position: {x: -0, y: 0.00950611, z: 5.9604643e-10}
+      rotation: {x: 0.070847854, y: -0, z: -0, w: 0.9974871}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.006
+      parentName: Tail.005
+      position: {x: -5.684342e-16, y: 0.012371091, z: -0.000000002980232}
+      rotation: {x: 0.01661812, y: -0, z: -0, w: 0.99986196}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Tail.007
+      parentName: Tail.006
+      position: {x: -0, y: 0.012196856, z: 0.0000000035762786}
+      rotation: {x: 0.04651611, y: -0.0000000169928, z: -0.00000004956129, w: 0.9989175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.007_end
+      parentName: Tail.007
+      position: {x: -0, y: 0.007461249, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail_Pull_Base
+      parentName: Tail_Base
+      position: {x: -6.3948843e-16, y: 0.008463176, z: 0.0000000017881409}
+      rotation: {x: -0.09392669, y: 0.0000000019146156, z: -0.000000022539218, w: 0.9955791}
+      scale: {x: 0.9999993, y: 0.99999994, z: 0.9999993}
+    - name: Tail_Pull_Base_end
+      parentName: Tail_Pull_Base
+      position: {x: -0, y: 0.0030707398, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Thigh_SoftIK.L
+      parentName: Back_Back
+      position: {x: -0.008816673, y: 0.00848144, z: -0.06337709}
+      rotation: {x: -1.1812836e-17, y: 0.19291826, z: 0.9812149, w: -6.0082085e-17}
+      scale: {x: 1.0000001, y: 0.9999996, z: 0.9999976}
+    - name: Rear_Thigh_IK.L
+      parentName: Rear_Thigh_SoftIK.L
+      position: {x: -0.0000000011920929, y: 0.013996363, z: 0.03035881}
+      rotation: {x: -0.00000018824358, y: 0.00000003903205, z: 0.000000023972023, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Thigh_Target.L
+      parentName: Rear_Thigh_IK.L
+      position: {x: -0.0000000042730828, y: 0.033994157, z: 0.016377509}
+      rotation: {x: -0.00000009936048, y: -0.000000005681495, z: -0.000000015685425, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Shin_Target.L
+      parentName: Rear_Thigh_Target.L
+      position: {x: 0.0000000032800045, y: 0.0053518224, z: -0.033267718}
+      rotation: {x: 0.00000009930227, y: 1.4210856e-14, z: -1.1431827e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Shin_Target.L_end
+      parentName: Rear_Shin_Target.L
+      position: {x: -0, y: 0.012000016, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Thigh_SoftIK.R
+      parentName: Back_Back
+      position: {x: 0.008636813, y: 0.008495784, z: -0.06338294}
+      rotation: {x: -1.181283e-17, y: 0.19291815, z: 0.9812149, w: -6.008208e-17}
+      scale: {x: 1.0000001, y: 0.9999996, z: 0.99999887}
+    - name: Rear_Thigh_IK.R
+      parentName: Rear_Thigh_SoftIK.R
+      position: {x: -5.9604643e-10, y: 0.013996369, z: 0.030358749}
+      rotation: {x: -0.00000006277696, y: -0.00000006748796, z: 0.000000023972063, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rear_Thigh_Target.R
+      parentName: Rear_Thigh_IK.R
+      position: {x: -0.0000000031597067, y: 0.033994146, z: 0.016377479}
+      rotation: {x: 0.000000049680242, y: 0.00000010083863, z: -0.000000015685433, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Shin_Target.R
+      parentName: Rear_Thigh_Target.R
+      position: {x: 0.0000000044718362, y: 0.0053517953, z: -0.033267662}
+      rotation: {x: -0.00000009933137, y: -6.321701e-14, z: -4.67508e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rear_Shin_Target.R_end
+      parentName: Rear_Shin_Target.R
+      position: {x: -0, y: 0.012000018, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt_Soft_IK.L
+      parentName: Back_Back
+      position: {x: -0.008816679, y: 0.0070121535, z: -0.029981898}
+      rotation: {x: -1.1812822e-17, y: 0.19291803, z: 0.9812149, w: -6.0082085e-17}
+      scale: {x: 0.9999998, y: 0.9999995, z: 0.9999988}
+    - name: Butt_IK.L
+      parentName: Butt_Soft_IK.L
+      position: {x: -0.0000000011920929, y: -0.0030261476, z: 0.015500244}
+      rotation: {x: -0.00000003757213, y: -1.4551915e-11, z: 1, w: -6.177909e-17}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Butt_Target.L
+      parentName: Butt_IK.L
+      position: {x: 8.836412e-10, y: 0.04454301, z: 0.025919847}
+      rotation: {x: -0.00000007949711, y: 1.0390829e-14, z: -0.00000003641687, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Butt_Target.L_end
+      parentName: Butt_Target.L
+      position: {x: -0, y: 0.015, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Butt_Soft_IK.R
+      parentName: Back_Back
+      position: {x: 0.00863833, y: 0.007012149, z: -0.029981898}
+      rotation: {x: -1.181283e-17, y: 0.19291815, z: 0.9812149, w: -6.008208e-17}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000006}
+    - name: Butt_IK.R
+      parentName: Butt_Soft_IK.R
+      position: {x: -0.0000000017881393, y: -0.0030261383, z: 0.015500227}
+      rotation: {x: -0.00000003757217, y: 4.3655742e-11, z: 1, w: -5.9592096e-17}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Butt_Target.R
+      parentName: Butt_IK.R
+      position: {x: 0.0000000014796887, y: 0.04454298, z: 0.025919816}
+      rotation: {x: -0.00000015889236, y: 4.2985455e-14, z: -0.000000036416882, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Butt_Target.R_end
+      parentName: Butt_Target.R
+      position: {x: -0, y: 0.014999995, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Hind_Pull
+      parentName: Root_Motion
+      position: {x: 0.000000006576139, y: -0.010245456, z: 0.06709512}
+      rotation: {x: -0.00000009496213, y: 0.19291806, z: 0.9812149, w: -0.00000011703669}
+      scale: {x: 1, y: 0.9999999, z: 0.9999994}
+    - name: Back_Hind_Pull_end
+      parentName: Back_Hind_Pull
+      position: {x: -0, y: 0.008057955, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Heads_Eye
+      parentName: Root_Motion
+      position: {x: 0.0000000069905997, y: 0.050659876, z: 0.085933484}
+      rotation: {x: 0.00000009415697, y: 0.7071068, z: 0.7071067, w: 0.00000009415696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Ik
+      parentName: Heads_Eye
+      position: {x: -0, y: 0, z: 6.128431e-16}
+      rotation: {x: -0.00000043445328, y: 0.61371094, z: 0.7895309, w: -0.00000033691342}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Head_Ik_end
+      parentName: Head_Ik
+      position: {x: -0, y: 0.033252247, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root_Origin
+      parentName: Root_Motion
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward_Pull
+      parentName: Root_Origin
+      position: {x: 0.000000007186609, y: 0.022882318, z: 0.07045643}
+      rotation: {x: -0.00000005967192, y: -0.27487662, z: 0.9614795, w: 0.00000012143332}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward_Pull_end
+      parentName: Back_Forward_Pull
+      position: {x: -0, y: 0.013581669, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShinPull.L
+      parentName: Root_Origin
+      position: {x: 0.008747696, y: 0.024567528, z: 0.011114071}
+      rotation: {x: 0, y: -0, z: -0.00000004371139, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Front_Calf.L.001
+      parentName: ShinPull.L
+      position: {x: -9.556682e-10, y: -0.0000000040036237, z: -0.000000017881392}
+      rotation: {x: -0.5283546, y: 0.00000028116906, z: -0.00000014282422, w: 0.8490238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof.L.001
+      parentName: Front_Calf.L.001
+      position: {x: -0.0000000010537515, y: 0.0061988444, z: 0.0000000033516083}
+      rotation: {x: 0.18593511, y: -0.00000035524633, z: -0.00000002869864, w: 0.982562}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Front_Hoof.L.001_end
+      parentName: Front_Hoof.L.001
+      position: {x: -0, y: 0.007873409, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Pull.L
+      parentName: ShinPull.L
+      position: {x: 6.8052625e-10, y: 0.00855602, z: -0.010866165}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Target.L
+      parentName: Front_Hoof_Pull.L
+      position: {x: -4.659965e-10, y: 0.017999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0.000000013942609, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Target.L_end
+      parentName: Front_Hoof_Target.L
+      position: {x: -0, y: 0.008999997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShinPull.R
+      parentName: Root_Origin
+      position: {x: -0.008578316, y: 0.024598125, z: 0.011114071}
+      rotation: {x: 0, y: -0, z: -0.00000004371139, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Front_Calf.R.001
+      parentName: ShinPull.R
+      position: {x: 0.0000000032139817, y: -0.0000000031341258, z: 0.0000000023841857}
+      rotation: {x: -0.5283543, y: 0.0000000081848315, z: -0.00000014282632, w: 0.849024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof.R.001
+      parentName: Front_Calf.R.001
+      position: {x: -7.464549e-10, y: 0.0061988435, z: 0.000000002383611}
+      rotation: {x: 0.1859336, y: 0.00000023334651, z: 0.0000005064408, w: 0.9825623}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Front_Hoof.R.001_end
+      parentName: Front_Hoof.R.001
+      position: {x: -0, y: 0.0078734085, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Pull.R
+      parentName: ShinPull.R
+      position: {x: 6.778512e-10, y: 0.0085560195, z: -0.010866165}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Target.R
+      parentName: Front_Hoof_Pull.R
+      position: {x: -4.6332146e-10, y: 0.017999995, z: 0}
+      rotation: {x: 0, y: -0, z: -0.000000013942609, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Front_Hoof_Target.R_end
+      parentName: Front_Hoof_Target.R
+      position: {x: -0, y: 0.008999997, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Chest_Pull
+      parentName: Root_Origin
+      position: {x: 0.000000006201853, y: 0.0377206, z: 0.053486697}
+      rotation: {x: -0.00008313916, y: 0.46334547, z: 0.8861777, w: -0.00004350423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.R
+      parentName: Chest_Pull
+      position: {x: 0.010146334, y: 0.01557472, z: 0.0074981847}
+      rotation: {x: -0.38841856, y: -0.5010459, z: 0.6187459, w: -0.46393698}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Front_UpperLeg.R
+      parentName: Shoulder.R
+      position: {x: -0, y: 0.021112844, z: 0.000000004172325}
+      rotation: {x: -0.024944905, y: -0.007106573, z: 0.10894102, w: 0.99370974}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1}
+    - name: Front_Shin.R
+      parentName: Front_UpperLeg.R
+      position: {x: -0.000000002235174, y: 0.017964927, z: 3.7252902e-11}
+      rotation: {x: -0.019041264, y: -0.01203463, z: 0.033852898, w: 0.999173}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: Front_Calf.R
+      parentName: Front_Shin.R
+      position: {x: -2.4447216e-10, y: 0.011722004, z: 0.0000000015238766}
+      rotation: {x: 0.1865335, y: -0.03952187, z: -0.1149885, w: 0.9748954}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
+    - name: Front_Hoof.R
+      parentName: Front_Calf.R
+      position: {x: 4.3548545e-10, y: 0.00619885, z: 0.000000002238343}
+      rotation: {x: 0.1859336, y: 0.00000023334651, z: 0.0000005064408, w: 0.9825623}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Front_Hoof.R_end
+      parentName: Front_Hoof.R
+      position: {x: -0, y: 0.007873415, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.L
+      parentName: Chest_Pull
+      position: {x: -0.010350794, y: 0.015605318, z: 0.007494339}
+      rotation: {x: 0.3595355, y: -0.47934562, z: 0.63525105, w: 0.4872557}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Front_UpperLeg.L
+      parentName: Shoulder.L
+      position: {x: 8.1956386e-10, y: 0.02108642, z: -0.000000001490116}
+      rotation: {x: -0.019766407, y: -0.038758013, z: -0.10971338, w: 0.99301064}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: Front_Shin.L
+      parentName: Front_UpperLeg.L
+      position: {x: 8.5681673e-10, y: 0.017952122, z: 0.0000000036880372}
+      rotation: {x: -0.019359836, y: -0.002013039, z: -0.034200896, w: 0.99922544}
+      scale: {x: 1, y: 1.0000002, z: 0.99999976}
+    - name: Front_Calf.L
+      parentName: Front_Shin.L
+      position: {x: 3.702007e-10, y: 0.011721982, z: -0.0000000013597309}
+      rotation: {x: 0.18975963, y: 0.054775406, z: 0.11495907, w: 0.97353756}
+      scale: {x: 0.9999997, y: 1, z: 0.99999964}
+    - name: Front_Hoof.L
+      parentName: Front_Calf.L
+      position: {x: -5.0906634e-10, y: 0.006198849, z: 0.000000002449048}
+      rotation: {x: 0.18593511, y: -0.00000035524633, z: -0.00000002869864, w: 0.982562}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Front_Hoof.L_end
+      parentName: Front_Hoof.L
+      position: {x: -0, y: 0.007873413, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Back
+      parentName: Chest_Pull
+      position: {x: -0.0000023301286, y: 0.008677935, z: 0.01241107}
+      rotation: {x: -0.00007785133, y: 0.55437857, z: 0.8322646, w: 0.000052177424}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Neck_Middle
+      parentName: Neck_Back
+      position: {x: -1.9895197e-15, y: 0.0077623413, z: -0.0000000014901208}
+      rotation: {x: -0.22717926, y: 0.00000021276345, z: 0.00000006950979, w: 0.973853}
+      scale: {x: 1.0000008, y: 0.9999998, z: 1.0000011}
+    - name: Neck_Upper
+      parentName: Neck_Middle
+      position: {x: -0, y: 0.013406391, z: -1.1946e-15}
+      rotation: {x: -0.12442314, y: 0.00000047364057, z: -0.0000004864974, w: 0.9922293}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999964}
+    - name: Head
+      parentName: Neck_Upper
+      position: {x: -4.5474734e-15, y: 0.009108169, z: 0.0000000071525754}
+      rotation: {x: -0.32044902, y: -0.00000012443914, z: 0.000000112064825, w: 0.9472658}
+      scale: {x: 0.9999991, y: 1.0000004, z: 1.0000002}
+    - name: Nose_Back.R
+      parentName: Head
+      position: {x: -0.0036154878, y: 0.027518017, z: 0.0014232583}
+      rotation: {x: 0.42720497, y: 0.09843315, z: 0.0067615295, w: 0.8987553}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Nose_Forward.R
+      parentName: Nose_Back.R
+      position: {x: -0.000000002980232, y: 0.0011189727, z: 0.000000004172325}
+      rotation: {x: -0.6664775, y: -0.30654776, z: -0.24706586, w: 0.63308346}
+      scale: {x: 0.9999996, y: 0.99999976, z: 0.9999995}
+    - name: Nose_Forward.R_end
+      parentName: Nose_Forward.R
+      position: {x: -0, y: 0.0017578285, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Nose_Back.L
+      parentName: Head
+      position: {x: 0.003811858, y: 0.02751802, z: 0.0014232666}
+      rotation: {x: 0.4212146, y: 0.067873485, z: 0.07161148, w: 0.90157825}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Nose_Forward.L
+      parentName: Nose_Back.L
+      position: {x: 8.9406965e-10, y: 0.0011189819, z: -0.0000000026077032}
+      rotation: {x: -0.70045865, y: 0.18538736, z: 0.12079509, w: 0.6785262}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Nose_Forward.L_end
+      parentName: Nose_Forward.L
+      position: {x: -0, y: 0.0017578263, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye.L
+      parentName: Head
+      position: {x: 0.0035879877, y: 0.010049033, z: 0.0033537142}
+      rotation: {x: 0.20034175, y: 0.34218973, z: -0.5985314, w: 0.69608164}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: Eye.L_end
+      parentName: Eye.L
+      position: {x: -0, y: 0.0053948406, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeLid_Upper.L
+      parentName: Head
+      position: {x: 0.0035879882, y: 0.010127778, z: 0.003044409}
+      rotation: {x: 0.5239625, y: 0.078947656, z: -0.5176213, w: 0.67178786}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: EyeLid_Upper.L_end
+      parentName: EyeLid_Upper.L
+      position: {x: -0, y: 0.0069325096, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeLid_Lower.L
+      parentName: Head
+      position: {x: 0.0035879882, y: 0.010127778, z: 0.003044409}
+      rotation: {x: 0.13614975, y: 0.32387954, z: -0.4223153, w: 0.8355926}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: EyeLid_Lower.L_end
+      parentName: EyeLid_Lower.L
+      position: {x: -0, y: 0.0067948555, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye.R
+      parentName: Head
+      position: {x: -0.0033916186, y: 0.0100490255, z: 0.0033537145}
+      rotation: {x: 0.21141632, y: -0.33231246, z: 0.60705584, w: 0.6901846}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Eye.R_end
+      parentName: Eye.R
+      position: {x: -0, y: 0.005394844, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeLid_Upper.R
+      parentName: Head
+      position: {x: -0.0033916181, y: 0.010127766, z: 0.0030444083}
+      rotation: {x: 0.52452195, y: -0.079674624, z: 0.5170541, w: 0.67170215}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: EyeLid_Upper.R_end
+      parentName: EyeLid_Upper.R
+      position: {x: -0, y: 0.006932513, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeLid_Lower.R
+      parentName: Head
+      position: {x: -0.0033916181, y: 0.010127766, z: 0.0030444083}
+      rotation: {x: 0.13601908, y: -0.32362112, z: 0.42235753, w: 0.8356927}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: EyeLid_Lower.R_end
+      parentName: EyeLid_Lower.R
+      position: {x: -0, y: 0.0067948597, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarBase.L
+      parentName: Head
+      position: {x: 0.003587988, y: 0.003309939, z: 0.004329397}
+      rotation: {x: -0.019571584, y: 0.3920077, z: 0.9186095, w: 0.045865215}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999976}
+    - name: EarLower.L
+      parentName: EarBase.L
+      position: {x: -0, y: 0.001989422, z: -0.0000000063165584}
+      rotation: {x: 0.042328108, y: 0.93990207, z: -0.013152046, w: 0.33855507}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: EarLower.L_end
+      parentName: EarLower.L
+      position: {x: -0, y: 0.002799623, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minds_Ear
+      parentName: Head
+      position: {x: -0.000002994433, y: 0.00007413625, z: 0.0077590737}
+      rotation: {x: 0.8229557, y: 0.00035582317, z: -0.00024519913, w: 0.5681054}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Minds_Ear_end
+      parentName: Minds_Ear
+      position: {x: -0, y: 0.0030419254, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarBase.R
+      parentName: Head
+      position: {x: -0.0033815396, y: 0.0033099456, z: 0.0043293806}
+      rotation: {x: 0.019571988, y: 0.39200777, z: 0.9186095, w: -0.045864236}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: EarLower.R
+      parentName: EarBase.R
+      position: {x: -2.9802322e-10, y: 0.0019894242, z: -0.000000006262594}
+      rotation: {x: -0.050623108, y: 0.93461514, z: -0.013949575, w: -0.35176304}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: EarLower.R_end
+      parentName: EarLower.R
+      position: {x: -0, y: 0.0027996209, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: Head
+      position: {x: -0.000000006188874, y: 0.002657585, z: -0.002503066}
+      rotation: {x: -0.000000012901846, y: 0.99932367, z: -0.036773086, w: 0.00000066671566}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: Lower_Lip
+      parentName: Jaw
+      position: {x: -0.000000001979422, y: 0.0222095, z: -0.0022442818}
+      rotation: {x: 0.000000034732533, y: 0.9984142, z: 0.05629453, w: -0.00000053151985}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: Lower_Lip_end
+      parentName: Lower_Lip
+      position: {x: -0, y: 0.005709248, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue.001
+      parentName: Jaw
+      position: {x: 6.2808336e-10, y: 0.018184504, z: 0.000287838}
+      rotation: {x: -0.0000002864831, y: 0.7705061, z: -0.63743263, w: -0.000000281452}
+      scale: {x: 1, y: 0.99999946, z: 1.0000002}
+    - name: Tongue.002
+      parentName: Tongue.001
+      position: {x: 7.958079e-15, y: 0.0013764143, z: -0.0000000023841855}
+      rotation: {x: -0.44594106, y: 0.000000104035244, z: -0.000000032416303, w: 0.8950623}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Tongue.003
+      parentName: Tongue.002
+      position: {x: -1.1368684e-15, y: 0.0020058714, z: 0.0000000107288445}
+      rotation: {x: -0.16369526, y: -0.00000009169529, z: 4.1717985e-10, w: 0.98651093}
+      scale: {x: 1, y: 0.9999998, z: 1.0000002}
+    - name: Tongue.004
+      parentName: Tongue.003
+      position: {x: 1.1368684e-15, y: 0.0013706338, z: 0.000000005960472}
+      rotation: {x: 0.024118299, y: -0.00000012909098, z: -0.0000000050507327, w: 0.9997091}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Tongue.005
+      parentName: Tongue.004
+      position: {x: -3.410605e-15, y: 0.0016195595, z: -0.0000000011920877}
+      rotation: {x: -0.08339711, y: 0.00000009630945, z: 0.000000021397891, w: 0.9965164}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Tongue.006
+      parentName: Tongue.005
+      position: {x: -3.410605e-15, y: 0.0012444186, z: -0.000000004768364}
+      rotation: {x: -0.014534437, y: -0.000000040608352, z: 0.000000003010932, w: 0.9998944}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue.007
+      parentName: Tongue.006
+      position: {x: -3.410605e-15, y: 0.0008874416, z: 0.0000000023841926}
+      rotation: {x: 0.09573484, y: 0.000000002893922, z: -0.000000022491452, w: 0.99540687}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Tongue.007_end
+      parentName: Tongue.007
+      position: {x: -0, y: 0.0014133316, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Upper_Lip
+      parentName: Head
+      position: {x: -0.0000000068444033, y: 0.02168041, z: -0.0014816129}
+      rotation: {x: 0.00000003307674, y: 0.9998904, z: 0.014807976, w: 0.0000007995258}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Upper_Lip_end
+      parentName: Upper_Lip
+      position: {x: -0, y: 0.010424282, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue_pull
+      parentName: Head
+      position: {x: -0.000000006846785, y: 0.029499184, z: -0.0018219495}
+      rotation: {x: -0.06434733, y: 0.00000003536932, z: -0.0000000228606, w: 0.9979276}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Tongue_pull_end
+      parentName: Tongue_pull
+      position: {x: -0, y: 0.005750849, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.R.001
+      parentName: Chest_Pull
+      position: {x: 0.010146334, y: 0.01557472, z: 0.0074981847}
+      rotation: {x: -0.0244825, y: -0.6127485, z: 0.78976303, w: 0.014636758}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Front_UpperLeg.R.001
+      parentName: Shoulder.R.001
+      position: {x: 1.4901161e-10, y: 0.021086475, z: 0.000000002235174}
+      rotation: {x: -0.1375117, y: -0.02356165, z: -0.05640807, w: 0.98861194}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1}
+    - name: Front_Shin.R.001
+      parentName: Front_UpperLeg.R.001
+      position: {x: -0.0000000013038516, y: 0.017803466, z: 0.0000000041909516}
+      rotation: {x: -0.08156312, y: -0.013855261, z: 0.047126275, w: 0.995457}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: Front_Shin.R.001_end
+      parentName: Front_Shin.R.001
+      position: {x: -0, y: 0.011950274, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder.L.001
+      parentName: Chest_Pull
+      position: {x: -0.010350794, y: 0.015605318, z: 0.007494339}
+      rotation: {x: -0.012727398, y: -0.61277527, z: 0.7900403, w: 0.013446932}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Front_UpperLeg.L.001
+      parentName: Shoulder.L.001
+      position: {x: 6.426126e-10, y: 0.021099713, z: -0.0000000010058283}
+      rotation: {x: -0.13804528, y: -0.022332339, z: 0.050838243, w: 0.9888682}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: Front_Shin.L.001
+      parentName: Front_UpperLeg.L.001
+      position: {x: -7.0780515e-10, y: 0.017837578, z: 0.0000000024586915}
+      rotation: {x: -0.0875452, y: 0.000050487, z: -0.04859007, w: 0.9949748}
+      scale: {x: 1, y: 1.0000002, z: 0.99999976}
+    - name: Front_Shin.L.001_end
+      parentName: Front_Shin.L.001
+      position: {x: -0, y: 0.011920912, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Back_IK
+      parentName: Chest_Pull
+      position: {x: -0.0000023301286, y: 0.008677938, z: 0.01241107}
+      rotation: {x: -0.00007784544, y: 0.55437833, z: 0.8322648, w: 0.000052173476}
+      scale: {x: 1, y: 0.9999995, z: 0.9999996}
+    - name: Neck_Middle_IK
+      parentName: Neck_Back_IK
+      position: {x: 1.7053025e-15, y: 0.008389492, z: 0.0000000011920882}
+      rotation: {x: -0.22717902, y: 0.0000001987892, z: 0.00000011917595, w: 0.97385305}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000005}
+    - name: Neck_Upper_IK
+      parentName: Neck_Middle_IK
+      position: {x: -2.842171e-16, y: 0.013273487, z: -0.000000004768373}
+      rotation: {x: -0.1562356, y: 0.0000008231822, z: -0.000000106825716, w: 0.98771983}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Neck_Upper_IK_end
+      parentName: Neck_Upper_IK
+      position: {x: -0, y: 0.009108164, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward_FK
+      parentName: Chest_Pull
+      position: {x: -0.000003185107, y: 0.014838283, z: 0.016969727}
+      rotation: {x: -0.27487662, y: -0.00009031842, z: -0.000025767446, w: 0.9614795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackMiddle_FK
+      parentName: Back_Forward_FK
+      position: {x: -1.4566126e-15, y: 0.020834178, z: 0.0000000017881409}
+      rotation: {x: 0.4868444, y: 0.0000000038106176, z: -0.00000010827807, w: 0.8734887}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: BackMiddle_FK_end
+      parentName: BackMiddle_FK
+      position: {x: -0, y: 0.017233502, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward.003
+      parentName: Chest_Pull
+      position: {x: -0.0000031817679, y: 0.014849762, z: 0.016951999}
+      rotation: {x: 0.7071068, y: -0.00006633918, z: 0.000066339184, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward.003_end
+      parentName: Back_Forward.003
+      position: {x: -0, y: 0.003999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck_Adj
+      parentName: Chest_Pull
+      position: {x: -0.0000000016331608, y: 0.00000015497207, z: 0.0000016546235}
+      rotation: {x: -0.00013312956, y: -0.7071068, z: 0.70710677, w: 0.00000038500684}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Neck_Adj_end
+      parentName: Neck_Adj
+      position: {x: -0, y: 0.016951883, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_SoftIK.L
+      parentName: Root_Origin
+      position: {x: 0.008747696, y: 0.024567528, z: 0.011114071}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShoulderPull.L
+      parentName: Shoulder_SoftIK.L
+      position: {x: 0.001724897, y: 0.0027909088, z: 0.02944508}
+      rotation: {x: -0.0034721459, y: 0.000046078596, z: -0.00000015999258, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Front_Leg_Target.L
+      parentName: ShoulderPull.L
+      position: {x: -0.0017235829, y: 0.04224851, z: -0.014249198}
+      rotation: {x: 0.003472154, y: -0.000046078603, z: 0.0000001583519, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Front_Leg_Target.L_end
+      parentName: Front_Leg_Target.L
+      position: {x: -0, y: 0.011000004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_Target.L
+      parentName: ShoulderPull.L
+      position: {x: -0.0017269398, y: 0.038662907, z: 0.022176685}
+      rotation: {x: 0.003472154, y: -0.000046078603, z: 0.0000001583519, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Shoulder_Target.L_end
+      parentName: Shoulder_Target.L
+      position: {x: -0, y: 0.011000004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_SoftIK.R
+      parentName: Root_Origin
+      position: {x: -0.008578316, y: 0.024598125, z: 0.011114073}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShoulderPull.R
+      parentName: Shoulder_SoftIK.R
+      position: {x: -0.0017106407, y: 0.0027909088, z: 0.02944508}
+      rotation: {x: -0.0034721459, y: 0.000106254214, z: -0.0000003689324, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Front_Leg_Target.R
+      parentName: ShoulderPull.R
+      position: {x: 0.0017136682, y: 0.042248506, z: -0.0142486775}
+      rotation: {x: 0.0034721566, y: -0.00010625423, z: 0.00000036935617, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Front_Leg_Target.R_end
+      parentName: Front_Leg_Target.R
+      position: {x: -0, y: 0.010999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_Target.R
+      parentName: ShoulderPull.R
+      position: {x: 0.00070592767, y: 0.038662918, z: 0.022176998}
+      rotation: {x: 0.0034721538, y: -0.000106254214, z: 0.00000036935592, w: 0.999994}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Shoulder_Target.R_end
+      parentName: Shoulder_Target.R
+      position: {x: -0, y: 0.011000004, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Pull
+      parentName: Root_Origin
+      position: {x: 0.000000006989416, y: 0.05065987, z: 0.085933484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_Focus
+      parentName: Head_Pull
+      position: {x: -0, y: 0.07999999, z: 0}
+      rotation: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeFocus_Left
+      parentName: Head_Focus
+      position: {x: -0.059999987, y: -0.01, z: -0.06000001}
+      rotation: {x: 0, y: -0.0000000754979, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeFocus_Left_end
+      parentName: EyeFocus_Left
+      position: {x: -0, y: 0.008999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeFocus_Right
+      parentName: Head_Focus
+      position: {x: 0.07, y: -0.01, z: -0.059999987}
+      rotation: {x: 0, y: -0.0000000754979, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EyeFocus_Right_end
+      parentName: EyeFocus_Right
+      position: {x: -0, y: 0.008999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarFocus
+      parentName: Head_Focus
+      position: {x: 0.0000029926189, y: 0.015385494, z: -0.004413824}
+      rotation: {x: -0.0005008055, y: 0.967866, z: -0.2514661, w: 0.00020826164}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: EarFocus_end
+      parentName: EarFocus
+      position: {x: -0, y: 0.0030419284, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarFocus_Left
+      parentName: Head_Focus
+      position: {x: -0.059999987, y: 0.02, z: -0.06000001}
+      rotation: {x: 0, y: 0.7071067, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarFocus_Left_end
+      parentName: EarFocus_Left
+      position: {x: -0, y: 0.008999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarFocus_Right
+      parentName: Head_Focus
+      position: {x: 0.07, y: 0.02, z: -0.059999987}
+      rotation: {x: -0, y: -0.7071067, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: EarFocus_Right_end
+      parentName: EarFocus_Right
+      position: {x: -0, y: 0.008999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Back_IK
+      parentName: Root_Origin
+      position: {x: -0.000000010330391, y: 0.06930252, z: 0.06839701}
+      rotation: {x: 0.000000008282732, y: 0.19214402, z: 0.98136675, w: -0.00000013730804}
+      scale: {x: 1, y: 0.9999999, z: 0.99999833}
+    - name: BackMiddle_IK
+      parentName: Back_Back_IK
+      position: {x: -7.105427e-17, y: 0.014340975, z: -0.0000000023841855}
+      rotation: {x: 0.035927903, y: -0.00000004715465, z: 0.000000061335555, w: 0.9993544}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Back_Forward_IK
+      parentName: BackMiddle_IK
+      position: {x: 2.2737367e-15, y: 0.017233524, z: -0.0000000035762786}
+      rotation: {x: -0.48578307, y: 0.000000021001403, z: 0.00000015252256, w: 0.87407947}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Back_Forward_IK_end
+      parentName: Back_Forward_IK
+      position: {x: -0, y: 0.020834219, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Forward
+      parentName: Root_Origin
+      position: {x: 0.000000005597991, y: 0.022882313, z: 0.07045643}
+      rotation: {x: 0.00000007224656, y: -0.2746433, z: 0.9615462, w: -0.00000011784772}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: BackMiddle
+      parentName: Back_Forward
+      position: {x: 1.4210854e-15, y: 0.020834181, z: 0.0000000014901183}
+      rotation: {x: 0.4863134, y: -0.00000006209381, z: -0.000000107200215, w: 0.8737845}
+      scale: {x: 1, y: 0.9999996, z: 0.9999997}
+    - name: BackMiddle_end
+      parentName: BackMiddle
+      position: {x: -0, y: 0.017233508, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarUpper.L
+      parentName: Root_Motion
+      position: {x: 0.0028656195, y: 0.052475017, z: 0.09294303}
+      rotation: {x: 0.67837894, y: -0.38167313, z: -0.42800725, w: 0.4592793}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: EarUpper.L_end
+      parentName: EarUpper.L
+      position: {x: -0, y: 0.0030478467, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EarUpper.R
+      parentName: Root_Motion
+      position: {x: -0.0026150858, y: 0.052493043, z: 0.09294302}
+      rotation: {x: 0.65918756, y: 0.39619133, z: 0.44322166, w: 0.4604984}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: EarUpper.R_end
+      parentName: EarUpper.R
+      position: {x: -0, y: 0.003047851, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail_Pull_End.001
+      parentName: Root_Motion
+      position: {x: 0.000000009144044, y: -0.08568073, z: 0.0676547}
+      rotation: {x: -0.000000044796305, y: 0.08764281, z: 0.996152, w: 0.00000013761367}
+      scale: {x: 1, y: 1.0000019, z: 1.0000058}
+    - name: Tail_Pull_End
+      parentName: Tail_Pull_End.001
+      position: {x: 2.2737367e-15, y: -0.0000000011920938, z: 0.000000001192092}
+      rotation: {x: 0.0000001527369, y: -0.000000068208145, z: -2.2204464e-14, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Tail_Pull_End_end
+      parentName: Tail_Pull_End
+      position: {x: -0, y: 0.003946455, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Back_Back_FK
+      parentName: Root_Motion
+      position: {x: 0.000000006576139, y: -0.010245456, z: 0.06709512}
+      rotation: {x: -0.00000009496215, y: 0.1929183, z: 0.9812149, w: -0.000000117036684}
+      scale: {x: 1, y: 1.0000001, z: 1.0000008}
+    - name: Back_Back_FK_end
+      parentName: Back_Back_FK
+      position: {x: -0, y: 0.014340959, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Forward
+      parentName: Root_Motion
+      position: {x: 0.000000005597991, y: 0.022882313, z: 0.07045643}
+      rotation: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_Root
+      parentName: Saddle_MCH_Forward
+      position: {x: -0, y: 0.006258154, z: -8.437695e-16}
+      rotation: {x: -0.75436795, y: 0.000000031044546, z: 0.0000000131896805, w: 0.6564518}
+      scale: {x: 1.0636156, y: 0.9696336, z: 1.0636156}
+    - name: Saddle_Root_end
+      parentName: Saddle_Root
+      position: {x: -0, y: 0.032440234, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Forward.001
+      parentName: Saddle_MCH_Forward
+      position: {x: -0, y: 0.006258154, z: -8.437695e-16}
+      rotation: {x: -0.5, y: 0.5, z: 0.49999994, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Forward.001_end
+      parentName: Saddle_MCH_Forward.001
+      position: {x: -0, y: 0.019999998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Forward.002
+      parentName: Saddle_MCH_Forward
+      position: {x: -0, y: 0.006258154, z: -8.437695e-16}
+      rotation: {x: -0.50000006, y: -0.49999997, z: -0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Saddle_MCH_Forward.002_end
+      parentName: Saddle_MCH_Forward.002
+      position: {x: -0, y: 0.019999998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Back
+      parentName: Root_Motion
+      position: {x: 0.000000012748383, y: -0.010256388, z: 0.067092426}
+      rotation: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Saddle_MCH_Back_end
+      parentName: Saddle_MCH_Back
+      position: {x: -0, y: 0.005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Front.L
+      parentName: Rig
+      position: {x: -0.008747696, y: -0.024567528, z: 0.011114071}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Front.L_end
+      parentName: Hoof_Lock_Front.L
+      position: {x: -0, y: 0.028499994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Front.R
+      parentName: Rig
+      position: {x: 0.008578316, y: -0.024598125, z: 0.011114071}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Front.R_end
+      parentName: Hoof_Lock_Front.R
+      position: {x: -0, y: 0.028499994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Back.R
+      parentName: Rig
+      position: {x: 0.008630706, y: 0.042160347, z: 0.011640895}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Back.R_end
+      parentName: Hoof_Lock_Back.R
+      position: {x: -0, y: 0.029999994, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Back.L
+      parentName: Rig
+      position: {x: -0.008816688, y: 0.04208289, z: 0.011640895}
+      rotation: {x: 0, y: 0, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hoof_Lock_Back.L_end
+      parentName: Hoof_Lock_Back.L
+      position: {x: -0, y: 0.03, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HorseMesh.001
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: -0.002600874, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 3.0000007, y: 3.0000007, z: 3.0000007}
+    - name: Leg_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Nose_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 3.0000002, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Eye_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 1.8000001, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Ear_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.1000001, y: 0, z: 0.6}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Rope_Pull_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 1.8000001, y: 0, z: -0.3}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Hoof_Pull_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 1.8000001, y: 0.030000001, z: 1.2}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 24.000002, y: 24.000002, z: 24.000002}
+    - name: Target_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 1.8000001, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Chest_Pull_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.7000003, y: 0.00000020384434, z: 2.7000003}
+      rotation: {x: -0.5, y: 0.49999997, z: -0.5, w: 0.50000006}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Head_Control_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.7000003, y: 0, z: -2.4}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Head_Focus_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.4, y: 0, z: 1.8000001}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Ear Focus Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.7000003, y: 0.113350786, z: -1.2528831}
+      rotation: {x: 0.000000015454313, y: -0.7071067, z: 0.00000001545431, w: 0.7071068}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    - name: Eye_Focus_Mesh
+      parentName: LP_Horse_Mesh_2_9(Clone)
+      position: {x: 2.679573, y: -0.0731339, z: -0.018229365}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 30.000002, y: 30.000002, z: 30.000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Root_Motion
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
