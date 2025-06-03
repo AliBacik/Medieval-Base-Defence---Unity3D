@@ -3,3 +3,12 @@
 
 # Medieval Base Defence Game
 
+### Description
+This game is a prototype inspired by a game ad.
+
+# 📸 Screenshots
+![alt text](https://github.com/AliBacik/Medieval-Base-Defence---Unity3D/blob/main/ScreenShots/1.png) ![alt text](https://github.com/AliBacik/Medieval-Base-Defence---Unity3D/blob/main/ScreenShots/2.png)
+![alt text](https://github.com/AliBacik/Medieval-Base-Defence---Unity3D/blob/main/ScreenShots/3.png)
+
+# 🔗 Video
+https://www.youtube.com/shorts/FKk7nlXMXKQ
